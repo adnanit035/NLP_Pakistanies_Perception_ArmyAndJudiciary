@@ -1,4 +1,4 @@
-# NLP - Urdu Sentiment Analysis on Twitter Data
+# NLP - Urdu Sentiment Analysis on Twitter Data (2020)
 This repository contains code for performing sentiment analysis on Urdu tweets to understand the perception of Pakistani citizens regarding their ARMY and Judiciary using Natural Language Processing (NLP) techniques. The dataset used for this analysis was generated through web scraping from Twitter and some newspaper sites.
 
 ## Tools Used
